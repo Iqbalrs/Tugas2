@@ -1,0 +1,4 @@
+getSum adalah perintah untuk mendapatkan hasil jumlah seluruh angka. 
+Bagaimana jika kita membutuhkan fungsi getKali untuk mengalikan seluruh angka?
+
+boleh saja namun beban kerja akan sangat berat jika hanya pakai getkali

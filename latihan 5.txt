@@ -1,0 +1,4 @@
+Jika getFirst diperoleh dari myList [0], bagaimana memperoleh getSecond?
+
+Detik = new Date().getSeconds();
+Out = 45;

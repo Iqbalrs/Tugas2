@@ -1,0 +1,6 @@
+Buatlah suatu fungsi untuk mengurangi 2 himpunan angka, jika getSum untuk menjumlahkan angka!
+
+
+SUM(angka1;[angka2];...)
+=SUM(A2;A3;A4;A5;A6)
+=SUM(A2:A6)

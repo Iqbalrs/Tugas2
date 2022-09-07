@@ -1,0 +1,7 @@
+Buatlah suatu fungsi untuk membagi 2 himpunan angka, jika getSum untuk menjumlahkan angka!
+
+SUM(angka1;[angka2];...)
+=SUM(A2;A3;A4;A5;A6)
+=SUM(A2:A6)
+
+

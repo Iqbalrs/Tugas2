@@ -1,0 +1,7 @@
+Jika getFirst diperoleh dari myList [0], bagaimana memperoleh getLast (isi terakhir)?
+
+lastElementRaw = Iterables.getLast(iterableList, null);
+lastElement = (lastElementRaw == null) ? Option.none() : Option.some(lastElementRaw);
+
+Metode size() mengembalikan jumlah elemen dalam ArrayList. Nilai indeks elemen adalah 0 hingga (size()-1), 
+jadi Anda akan menggunakan myArrayList.get(myArrayList.size()-1) untuk mengambil elemen terakhir.

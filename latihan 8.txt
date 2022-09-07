@@ -1,0 +1,5 @@
+getSum adalah perintah untuk mendapatkan hasil jumlah seluruh angka. 
+Bagaimana jika kita membutuhkan fungsi getBagi untuk membagikan seluruh angka?
+
+
+boleh saja namun beban kerja akan sangat berat jika hanya pakai getbagi

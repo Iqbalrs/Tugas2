@@ -1,0 +1,7 @@
+x = 4       
+x = "Sally" 
+print(x)
+
+
+x = "Keren"
+print("Python " + x)

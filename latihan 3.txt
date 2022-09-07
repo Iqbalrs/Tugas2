@@ -1,0 +1,17 @@
+Di Python, variabel dibuat saat Anda memberikan nilai pada variabel tersebut. Pada contoh
+berikut terdapat variabel x dan variabel y yang diberi nilai data angka dan data teks.
+Variabel dalam Python:
+
+x = 5
+y = "Hello, World!"
+print(x)
+print(y)
+
+x, y, z = "Jeruk", "Pisang", "Cherry"
+
+print(x)
+print(y)
+print(z)
+
+
+Python tidak memiliki perintah untuk mendeklarasikan variabel.

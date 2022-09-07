@@ -1,0 +1,10 @@
+if 5 > 2:
+  print("Five is greater than two!")
+ 
+x = 2 
+y = 3
+sum = x+y
+print(sum)
+
+Python akan error jika Anda melewati indentasi, Anda harus menggunakan jumlah spasi yang sama dalam blok kode yang sama, jika tidak
+program Python akan error.
